@@ -1,4 +1,4 @@
-package com.attiy.bilibili.dao.domain.exception;
+package com.attiy.bilibili.domain.exception;
 
 public class ConditionException extends RuntimeException {
 
