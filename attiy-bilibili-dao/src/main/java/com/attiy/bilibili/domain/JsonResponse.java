@@ -1,4 +1,4 @@
-package com.attiy.bilibili.dao.domain;
+package com.attiy.bilibili.domain;
 
 public class JsonResponse<T> {
     private String code;

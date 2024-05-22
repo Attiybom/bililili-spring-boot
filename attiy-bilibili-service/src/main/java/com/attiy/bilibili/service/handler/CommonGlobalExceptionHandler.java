@@ -1,10 +1,9 @@
 package com.attiy.bilibili.service.handler;
 
-import com.attiy.bilibili.dao.domain.JsonResponse;
-import com.attiy.bilibili.dao.domain.exception.ConditionException;
+import com.attiy.bilibili.domain.JsonResponse;
+import com.attiy.bilibili.domain.exception.ConditionException;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
-import org.springframework.web.HttpRequestHandler;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
